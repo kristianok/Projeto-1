@@ -1,0 +1,1 @@
+(1) UPDATE: muda retangulos selecionados, mas não muda outros
